@@ -1,0 +1,19 @@
+* {
+    margin: 0;
+    box-sizing: border-box;
+    background-color: orange;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.text,
+.sub-text,
+.s-text {
+    background-color: yellow;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    position: relative;
+}
